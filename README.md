@@ -1,11 +1,11 @@
 # Download Scripts
 A collection of download scripts
 
-## Download scripts for specific sites
+## Simple scripts
 - [studybox](./studybox)
 - [whyp](./whyp)
 
-## General tools
+## Other tools
 - [audible-cli](https://github.com/mkb79/audible-cli)
   Audible downloader
 - [audiobook-dl](https://github.com/jo1gi/audiobook-dl)
